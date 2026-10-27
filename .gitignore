@@ -1,0 +1,5 @@
+venv/
+.env
+wallet.db
+__pycache__/
+*.pyc
